@@ -1,0 +1,10 @@
+\N\N0
+\Nneutral13
+ECUADORneutral1
+GREECEneutral1
+GREENLANDneutral1
+INDIApositive1
+IRAQneutral6
+ROMANIAneutral2
+TURKEYneutral3
+UNITED STATESneutral3
